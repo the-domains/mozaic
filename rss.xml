@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MOZAIC]]></title>
         <description><![CDATA[MOZAIC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mozaic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 12:09:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jan 2016 12:10:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mozaic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00aca560-3e4f-41e1-a015-0015edf2d44e.png">]]></description>
+            <link>https://thegrid.ai/mozaic/f4c71955-a50f-4153-8f94-b28bbf32d370/index.html</link>
+            <guid isPermaLink="false">f4c71955-a50f-4153-8f94-b28bbf32d370</guid>
+            <pubDate>Tue, 12 Jan 2016 12:09:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>undefined</p>]]></description>
-            <link>undefined10a57cef-6e5f-4bb7-8e35-76ebf2f24e4f/index.html</link>
+            <link>https://thegrid.ai/mozaic/10a57cef-6e5f-4bb7-8e35-76ebf2f24e4f/index.html</link>
             <guid isPermaLink="false">10a57cef-6e5f-4bb7-8e35-76ebf2f24e4f</guid>
             <pubDate>Tue, 12 Jan 2016 12:09:20 GMT</pubDate>
         </item>
