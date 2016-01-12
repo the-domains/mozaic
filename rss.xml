@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MOZAIC]]></title>
-        <description><![CDATA[MOZAIC]]></description>
+        <title><![CDATA[MOZAIC Private Holding Company]]></title>
+        <description><![CDATA[MOZAIC Private Holding Company]]></description>
         <link>https://thegrid.ai/mozaic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 12:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 12:20:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mozaic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>undefined</p>]]></description>
+            <description><![CDATA[<p>“All men dream: but not equally. Those who dream by night in the dusty recesses of their minds wake up in the day to find it was vanity, but the dreamers of the day are dangerous men, for they may act their dreams with open eyes, to make it possible.”- T.E. Lawrence, Seven Pillars of Wisdom: A Triumph</p>]]></description>
             <link>https://thegrid.ai/mozaic/10a57cef-6e5f-4bb7-8e35-76ebf2f24e4f/index.html</link>
             <guid isPermaLink="false">10a57cef-6e5f-4bb7-8e35-76ebf2f24e4f</guid>
-            <pubDate>Tue, 12 Jan 2016 12:09:20 GMT</pubDate>
+            <pubDate>Tue, 12 Jan 2016 12:19:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
