@@ -1,7 +1,8 @@
 name: MOZAIC
 favicon: null
-layout_spectrum: 0.5545354201458395
-typography_spectrum: 0.25636846013367176
+layout_spectrum: 1
+typography_spectrum: 0.49549
+title: MOZAIC Private Holding Company
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.674174135318026
-  lightness: 0.06692712963558733
-  saturation: 0.10940189403481781
-  rhythmicContrast: 0.906874920707196
+    - '#ffffff'
+    - '#1b4c5e'
+    - '#3e6b90'
+    - '#f05a69'
+    - '#748ba9'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
